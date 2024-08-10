@@ -1,0 +1,158 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-image: linear-gradient(forestgreen,darkgreen);
+    border-radius: 10px;
+    height: 100px;
+}
+
+header:hover {
+    box-shadow: 5px 5px 15px 5px seagreen;
+    transition: 0.2s linear;
+}
+
+main img {
+    height:250px; 
+    width:250px;
+    border-radius: 10px;
+}
+
+nav a{
+    padding: 3px;
+    margin: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+nav {
+    margin: 15px;
+    padding: 10px;
+    background-image: linear-gradient(forestgreen,darkgreen);
+    border-radius: 10px;
+    text-align: center;
+}
+
+nav:hover {
+    
+    box-shadow: 5px 5px 15px 5px seagreen;
+    transition: 0.2s linear;
+}
+
+header img {
+    width:50px;
+    height:50px;
+    border-radius: 10px;
+    position: absolute;
+}
+
+header h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.memetext {
+    text-align: right;
+    border-radius: 10px;
+    color: white;
+    display: inline-block;
+    margin-left: 100px;
+}
+
+body {
+    background-color: lightgreen;
+    font-family: Comic Sans MS; 
+}
+
+footer {
+    background-image: linear-gradient(forestgreen, darkgreen);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 3px;
+    text-align: center;
+    color: white;
+}
+
+footer a {
+    text-decoration: none;
+    color: palegreen;  
+}
+
+.Meme2024 {
+    text-align:center;
+    border-radius: 10px;
+    color: white;
+    background-image: linear-gradient(forestgreen,darkgreen);
+}
+
+.Meme2023 {
+    text-align:center;
+    background-image: linear-gradient(forestgreen,darkgreen);
+    border-radius: 10px;
+    color: white;
+}
+
+.Meme2022 {
+    text-align:center;
+    background-image: linear-gradient(forestgreen,darkgreen);
+    border-radius: 10px;
+    color: white;
+}
+
+.Meme2021 {
+    text-align:center;
+    background-image: linear-gradient(forestgreen,darkgreen);
+    border-radius: 10px;
+    color: white;
+}
+
+.Meme2020 {
+    text-align:center;
+    background-image: linear-gradient(forestgreen,darkgreen);
+    border-radius: 10px;
+    color: white;
+}
+
+.meme:hover {
+    transform: scale(1.08);
+    transition: 0.2s linear;
+}
+
+.memeinfo {
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    background-image: linear-gradient(forestgreen,darkgreen);
+}
+
+.opisanie {
+    background-image: linear-gradient(darkgreen,forestgreen);
+    border-radius: 10px; 
+}
+
+a {
+    color: paleturquoise;
+    text-decoration: none;
+} 
+
+a:hover {
+    color: aquamarine;
+}
+
+a:focus {
+    color: aqua;
+}
+
+.meme {
+    margin: 10px 0px 10px 10px;
+}
+
+footer:hover {
+    box-shadow: 5px 5px 15px 5px seagreen;
+    transition: 0.2s linear;
+}
